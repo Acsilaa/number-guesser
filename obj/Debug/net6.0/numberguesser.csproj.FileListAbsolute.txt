@@ -1,0 +1,15 @@
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.exe
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.deps.json
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.runtimeconfig.json
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.dll
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.pdb
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.csproj.AssemblyReference.cache
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.AssemblyInfoInputs.cache
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.AssemblyInfo.cs
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.dll
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\refint\numberguesser.dll
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.pdb
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.genruntimeconfig.cache
+C:\Users\tanulo\Documents\Gál Attila Péter(9.F)\misc\numberguesser\numberguesser\obj\Debug\net6.0\ref\numberguesser.dll
